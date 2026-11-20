@@ -2,7 +2,10 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://the-waves-introduction.vercel.app"),
+
   title: "The Waves | Precious & Joseph",
+
   description:
     "The Marriage Introduction of Precious and Joseph — 26 December 2026.",
 
@@ -10,7 +13,7 @@ export const metadata: Metadata = {
     title: "The Waves | Precious & Joseph",
     description:
       "Marriage Introduction • 26 December 2026 • Ibadan, Oyo State",
-    url: "https://the-waves-introduction.vercel.app",
+    url: "/",
     siteName: "The Waves",
     images: [
       {
