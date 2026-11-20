@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     siteName: "The Waves",
     images: [
       {
-        url: "/og-image.png",
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "The Waves — Precious & Joseph Marriage Introduction",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "The Waves | Precious & Joseph",
     description:
       "Marriage Introduction • 26 December 2026 • Ibadan, Oyo State",
-    images: ["/og-image.png"],
+    images: ["/og-image.jpg"],
   },
 };
 
